@@ -1,0 +1,12 @@
+main: ChatColors
+author: JD1992
+version: ${project.version}
+name: ChatColors
+depend: [Vault]
+commands:
+  chatcolors:
+    description: Hauptcommand für das Plugin
+    usage: /chatcolors
+  chatcolor:
+    description: Aufruf der Chatfarbenauswahl
+    usage: /chatcolor
